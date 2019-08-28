@@ -15,4 +15,4 @@ ReCoin (RYC) provides a cryptocurrency incentive to recycle.
 ## Download
 Get the app from the [releases page](https://github.com/zero-delta/recoin-network/releases).
 
-Also avaialbe on the [Play Store](https://play.google.com/store/apps/details?id=network.recoin.rewardapp&hl=en_US).
+Also available on the [Play Store](https://play.google.com/store/apps/details?id=network.recoin.rewardapp&hl=en_US).
